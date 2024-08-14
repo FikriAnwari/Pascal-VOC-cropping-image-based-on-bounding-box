@@ -11,13 +11,13 @@ Kode ini di buat menggunakan ChatGPT namun telah ku optimalkan agar tidak error 
 1. Ubah nama file gambar menjadi hanya berisi satu angka seperti ini:
 ![image](https://github.com/FikriAnwari/Pascal-VOC-cropping-image-based-on-bounding-box/blob/main/documentations-img/img%201.png)
 Nama file gambar seperti di bawah ini di larang karena mengandung lebih dari satu angka secara terpisah:
-![image2](https://github.com/FikriAnwari/Pascal-VOC-cropping-image-based-on-bounding-box/blob/main/documentations-img/img%202.png)
+![image2](https://github.com/FikriAnwari/Pascal-VOC-cropping-image-based-on-bounding-box/blob/main/documentations-img/img%204.png)
 
 2. Ubah nama file anotasi(Pascal VOC) menjadi sama dengan nama file gambar nya
-![imagexml](https://drive.google.com/file/d/1CZ3tBHIbLjnDn1DQHvHSx9W3mSsQhJL6/view?usp=drive_link)
+![imagexml](https://github.com/FikriAnwari/Pascal-VOC-cropping-image-based-on-bounding-box/blob/main/documentations-img/img%202.png)
 
 3. Ekstrak kode dari file .zip jika kamu mengunduh repo ini sehingga terlihat seperti ini:
-![image3](https://drive.google.com/file/d/1pmOLfJA5gRxdouJ5GF9ouDi5_On48w7Y/view?usp=sharing)
+![image3](https://github.com/FikriAnwari/Pascal-VOC-cropping-image-based-on-bounding-box/blob/main/documentations-img/img%203.png)
 
 
 4. Ubah kode pada app.py pada bagian:
