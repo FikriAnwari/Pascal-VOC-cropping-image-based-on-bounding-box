@@ -40,5 +40,6 @@ di bagian `if.endswith('.png')` kau bisa ubah menjadi menjadi ekstensi yang sesu
 
 8. Proses selesai semoga kode ini membantu mu😊
 
-###### Tips mengubah nama file bisa dilihat di video ini:
+###### Tips mengubah nama file yang jumlahnya banyak bisa dilihat di video ini:
 [KLIK](https://youtube.com/shorts/JPJzG7U15js?feature=shared)
+ini masih bisa digunakan di windows 11
