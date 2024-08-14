@@ -9,9 +9,9 @@ Kode ini di buat menggunakan ChatGPT namun telah ku optimalkan agar tidak error 
 ---
 ## Bagaimana cara menggunakannya?
 1. Ubah nama file gambar menjadi hanya berisi satu angka seperti ini:
-![image](https://drive.google.com/file/d/1tjJ_EA-bSQoS8D3px1UzEJOJAVD5Irvu/view?usp=drive_link)
+![image](https://github.com/FikriAnwari/Pascal-VOC-cropping-image-based-on-bounding-box/blob/main/documentations-img/img%201.png)
 Nama file gambar seperti di bawah ini di larang karena mengandung lebih dari satu angka secara terpisah:
-![image2](https://drive.google.com/file/d/1FRSdldcn8ygtJ4IfuIaGhu4IRX1Kifw6/view?usp=drive_link)
+![image2](https://github.com/FikriAnwari/Pascal-VOC-cropping-image-based-on-bounding-box/blob/main/documentations-img/img%202.png)
 
 2. Ubah nama file anotasi(Pascal VOC) menjadi sama dengan nama file gambar nya
 ![imagexml](https://drive.google.com/file/d/1CZ3tBHIbLjnDn1DQHvHSx9W3mSsQhJL6/view?usp=drive_link)
