@@ -10,7 +10,7 @@ Kode ini di buat menggunakan ChatGPT namun telah ku optimalkan agar tidak error 
 ## Bagaimana cara menggunakannya?
 1. Ubah nama file gambar menjadi hanya berisi satu angka seperti ini:
 ![image](https://github.com/FikriAnwari/Pascal-VOC-cropping-image-based-on-bounding-box/blob/main/documentations-img/img%201.png)
-Nama file gambar seperti di bawah ini di larang karena mengandung lebih dari satu angka secara terpisah:
+Nama file gambar seperti di bawah ini **dilarang** karena mengandung lebih dari satu angka secara terpisah:
 ![image2](https://github.com/FikriAnwari/Pascal-VOC-cropping-image-based-on-bounding-box/blob/main/documentations-img/img%204.png)
 
 2. Ubah nama file anotasi(Pascal VOC) menjadi sama dengan nama file gambar nya
