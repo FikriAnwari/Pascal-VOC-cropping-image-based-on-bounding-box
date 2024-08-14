@@ -39,3 +39,6 @@ di bagian `if.endswith('.png')` kau bisa ubah menjadi menjadi ekstensi yang sesu
 7. Jika sudah buka folder `saved` yang satu direktori dengan `app.py`
 
 8. Proses selesai semoga kode ini membantu mu😊
+
+###### Tips mengubah nama file bisa dilihat di video ini:
+[KLIK](https://youtube.com/shorts/JPJzG7U15js?feature=shared)
