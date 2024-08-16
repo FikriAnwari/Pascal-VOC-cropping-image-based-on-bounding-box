@@ -42,4 +42,4 @@ di bagian `if.endswith('.png')` kau bisa ubah menjadi menjadi ekstensi yang sesu
 
 ###### Tips mengubah nama file yang jumlahnya banyak bisa dilihat di video ini:
 [KLIK](https://youtube.com/shorts/JPJzG7U15js?feature=shared)
-ini masih bisa digunakan di windows 11
+.ini masih bisa digunakan di windows 11
